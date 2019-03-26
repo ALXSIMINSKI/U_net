@@ -5,7 +5,7 @@ import numpy as np
 import skimage.io as io
 
 # batch 2 steps 5 epochs 3 - игловидные
-# batch 6 steps 5 epochs 1 - фракталы
+# batch 3 steps 5 epochs 2 - дендриты
 data_gen_args = dict(rotation_range=0.2,
                     width_shift_range=0.05,
                     height_shift_range=0.05,

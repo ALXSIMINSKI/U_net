@@ -4,7 +4,7 @@ import numpy as np
 import os
 from skimage import filters
 import skimage.io as io
-import skimage.transform as trans#
+import skimage.transform as trans
 import cv2
 
 
