@@ -27,7 +27,7 @@ test_num = 13
 # saveResult("data/test_class2", results)
 
 # -------------------------------------------------------------------------------------------------
-mix_num = 7
+mix_num = 8
 
 data = []
 for i in range(0, mix_num):
