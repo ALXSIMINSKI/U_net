@@ -18,18 +18,19 @@ test_num = 13
 #
 # myGene = trainGenerator(6, 'data/train_class2', 'image', 'label', data_gen_args, save_to_dir="data/train_class2/aug")
 #
-model = unet(pretrained_weights="unet_membrane_2class.hdf5")
+# model = unet(pretrained_weights="unet_membrane_2class.hdf5")
 # model_checkpoint = ModelCheckpoint('unet_membrane_2class.hdf5', monitor='loss', verbose=1, save_best_only=True)
 # model.fit_generator(myGene, steps_per_epoch=5, epochs=1, callbacks=[model_checkpoint])
 
-testGene = testGenerator("data/test_class2", num_image=test_num)
-results = model.predict_generator(testGene, test_num, verbose=1)
-saveResult("data/test_class2", results)
+# testGene = testGenerator("data/test_class2", num_image=test_num)
+# results = model.predict_generator(testGene, test_num, verbose=1)
+# saveResult("data/test_class2", results)
 
 # -------------------------------------------------------------------------------------------------
+mix_num = 7
 
 data = []
-for i in range(0, 4):
+for i in range(0, mix_num):
     data.append(io.imread(os.path.join("data\objects_mask\mixed\%d.png" % i), as_gray=True))
 
 
@@ -46,7 +47,7 @@ def boxcount(Z, k):
                 count += 1
     return count
 
-for i in range(0,4):
+for i in range(0, mix_num):
 
     # Minimal dimension of image
     p = min(data[i].shape)
