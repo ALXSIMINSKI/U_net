@@ -2,27 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cff20ab3-85dc-4b76-81bf-d0fa730a5ed8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/unet-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/0_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/1_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/2_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/3_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/4_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/5_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/6_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/7_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_class3/8_predict.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/image/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/train_class3/label/8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/0_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/0_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/10_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/10_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/11_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/11_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/12_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/12_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/1_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/1_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/2_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/2_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/3_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/3_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/4_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/4_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/5_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/5_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/6_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/6_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/7_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/7_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/8_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/8_predict.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test_class2/9_predict.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test_class2/9_predict.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/objects_mask/mixed/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects_mask/mixed/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/objects_mask/object_mask_class1/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects_mask/object_mask_class1/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/objects_mask/object_mask_class1/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects_mask/object_mask_class1/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataPrepare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/dataPrepare.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,57 +53,75 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/unet_master$main.coverage" NAME="main Coverage Results" MODIFIED="1552860471345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/U_net$main.coverage" NAME="main Coverage Results" MODIFIED="1553634350696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/U_net$main.coverage" NAME="main Coverage Results" MODIFIED="1557260466743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/4_predict.png">
+        <entry file="file://$PROJECT_DIR$/data/test_class3/4_predict.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/1_predict.png">
+        <entry file="file://$PROJECT_DIR$/data/test_class3/5.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/2_predict.png">
+        <entry file="file://$PROJECT_DIR$/data/test_class3/5_predict.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/3_predict.png">
+        <entry file="file://$PROJECT_DIR$/data/test_class3/7.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/5_predict.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/6_predict.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/7_predict.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/8_predict.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/9_predict.png">
+        <entry file="file://$PROJECT_DIR$/data/test_class3/7_predict.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/test_class2/10_predict.png">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+                <marker date="1557260919328" expanded="true" signature="546:1080" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataPrepare.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/test_class3/8_predict.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -123,24 +161,24 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/model.py" />
-        <option value="$PROJECT_DIR$/data.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/data.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="821" />
+    <option name="x" value="194" />
+    <option name="width" value="1253" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,18 +195,19 @@
               <item name="U_net" type="b2602c69:ProjectViewProjectNode" />
               <item name="U_net" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="test_class2" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="U_net" type="b2602c69:ProjectViewProjectNode" />
               <item name="U_net" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="train_class2" type="462c0819:PsiDirectoryNode" />
+              <item name="objects_mask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,19 +218,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Диплом\U_net\data\test_class3" />
+      <recent name="E:\Диплом\U_net\data\train_class3\label" />
+      <recent name="E:\Диплом\U_net\data\train_class3\image" />
+      <recent name="E:\Диплом\U_net\data\objects_mask\mixed" />
+      <recent name="C:\Users\forsh\Downloads\Диплом\unet-master\data\membrane\objects_mask\mixed" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Диплом\U_net\data\train_class3\image" />
+      <recent name="E:\Диплом\U_net\data\test_class3" />
+      <recent name="E:\Диплом\U_net\data\objects_mask\object_mask_class1" />
       <recent name="E:\Диплом\U_net" />
       <recent name="C:\Users\forsh\Downloads\Диплом\U-net\data" />
-      <recent name="E:\Диплом\unet-master\data\membrane\objects_mask\object_mask_class1" />
-      <recent name="E:\Диплом\unet-master\data\membrane\objects\objects_class2" />
-      <recent name="E:\Диплом\unet-master\data\membrane\objects\objects_class1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\forsh\Downloads\Диплом\unet-master\data\membrane\objects_mask\mixed" />
-      <recent name="E:\Диплом\unet-master\data\membrane\objects_mask\object_mask_class2" />
-      <recent name="E:\Диплом\unet-master\data\membrane\test_class2" />
-      <recent name="E:\Диплом\unet-master\data\membrane\objects_mask\mixed" />
-      <recent name="E:\Диплом\unet-master\data\membrane\objects_mask\object_mask_class1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -251,31 +290,41 @@
       <workItem from="1552854088135" duration="6569000" />
       <workItem from="1552939408177" duration="598000" />
       <workItem from="1553631177252" duration="1473000" />
-      <workItem from="1553632701977" duration="1883000" />
+      <workItem from="1553632701977" duration="3657000" />
+      <workItem from="1553801865506" duration="648000" />
+      <workItem from="1553955514213" duration="597000" />
+      <workItem from="1553970000887" duration="1847000" />
+      <workItem from="1554048756367" duration="1512000" />
+      <workItem from="1554057435887" duration="4688000" />
+      <workItem from="1554147582209" duration="600000" />
+      <workItem from="1555871676862" duration="3491000" />
+      <workItem from="1557172568914" duration="3143000" />
+      <workItem from="1557227946493" duration="8440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108351000" />
+    <option name="totallyTimeSpent" value="135091000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="821" height="867" extended-state="0" />
+    <frame x="194" y="0" width="1253" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.84752476" visible="true" weight="0.239159" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.84752476" visible="true" weight="0.2003353" />
       <window_info id="Structure" order="1" sideWeight="0.15247525" side_tool="true" weight="0.22421204" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40599456" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970026" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39918256" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30417228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32970026" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.28398386" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -284,26 +333,26 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.84752476" visible="true" weight="0.18215613" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.84752476" visible="true" weight="0.15186246" />
       <window_info id="Structure" order="1" sideWeight="0.15247525" side_tool="true" weight="0.22421204" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4013245" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4051144" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30417228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32970026" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32974428" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.28398386" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3295129" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32937685" />
       <window_info anchor="right" id="Database" order="4" />
     </layout-to-restore>
   </component>
@@ -335,115 +384,58 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/train_class3/label/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/label/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/label/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/aug/image_0_267395.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/aug/image_0_901409.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/aug/image_0_1002025.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/aug/image_0_2832721.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/aug/image_0_9323655.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/aug/mask_0_9323655.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/aug/image_4_7941329.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/train_class2/aug/image_0_60923.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/train_class2/image/4.png">
+    <entry file="file://$PROJECT_DIR$/data/train_class2/aug/image_2_817098.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/objects_mask/mixed/0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/objects_mask/mixed/1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/objects_mask/mixed/2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/objects_mask/mixed/3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train_class2/image/11.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train_class2/image/10.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train_class2/image/9.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train_class2/image/8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train_class2/image/7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/train_class2/image/6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/10.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/11.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/11_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/12.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/12_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/5_predict.png">
+    <entry file="file://$PROJECT_DIR$/data/train_class2/aug/mask_2_817098.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/test_class1/3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/3_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/test_class1/4.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/4_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/0_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/1_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/1.png">
+    <entry file="file://$PROJECT_DIR$/data/test_class1/0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/test_class1/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class1/2_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/2.png">
+    <entry file="file://$PROJECT_DIR$/data/test_class2/1_predict.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/test_class2/0.png">
@@ -452,60 +444,116 @@
     <entry file="file://$PROJECT_DIR$/data/test_class2/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/3.png">
+    <entry file="file://$PROJECT_DIR$/data/objects_mask/object_mask_class2/0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/4.png">
+    <entry file="file://$PROJECT_DIR$/data/objects_mask/object_mask_class2/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/5.png">
+    <entry file="file://$PROJECT_DIR$/data/objects_mask/object_mask_class1/0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/6.png">
+    <entry file="file://$PROJECT_DIR$/data/objects_mask/object_mask_class1/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/data/objects/objects_class2/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/objects/objects_class2/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/objects/objects_class1/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/objects/objects_class1/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/train_class3/image/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/0_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/1_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/2_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/3_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/6_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/4_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/5_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/8_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/test_class3/7_predict.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataPrepare.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state>
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/0_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/1_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/2_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/3_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/4_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/5_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/6_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/7_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/8_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/9_predict.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/test_class2/10_predict.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+            <marker date="1557260919328" expanded="true" signature="546:1080" ph="..." />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

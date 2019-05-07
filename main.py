@@ -6,28 +6,31 @@ import skimage.io as io
 
 # batch 2 steps 5 epochs 3 - игловидные
 # batch 3 steps 5 epochs 2 - дендриты
-data_gen_args = dict(rotation_range=0.2,
-                    width_shift_range=0.05,
-                    height_shift_range=0.05,
-                    shear_range=0.05,
-                    zoom_range=0.05,
-                    horizontal_flip=True,
-                    fill_mode='reflect')
+# batch 2 steps 5 epochs 3 - фронт
 
-test_num = 13
-#
-# myGene = trainGenerator(6, 'data/train_class2', 'image', 'label', data_gen_args, save_to_dir="data/train_class2/aug")
-#
-# model = unet(pretrained_weights="unet_membrane_2class.hdf5")
-# model_checkpoint = ModelCheckpoint('unet_membrane_2class.hdf5', monitor='loss', verbose=1, save_best_only=True)
-# model.fit_generator(myGene, steps_per_epoch=5, epochs=1, callbacks=[model_checkpoint])
+# data_gen_args = dict(rotation_range=0.2,
+#                     width_shift_range=0.05,
+#                     height_shift_range=0.05,
+#                     shear_range=0.05,
+#                     zoom_range=0.05,
+#                     horizontal_flip=True,
+#                     fill_mode='reflect')
 
-# testGene = testGenerator("data/test_class2", num_image=test_num)
+# test_num = 9
+#
+# myGene = trainGenerator(2, 'data/train_class3', 'image', 'label', data_gen_args, save_to_dir="data/train_class3/aug")
+#
+# model = unet()
+# model_checkpoint = ModelCheckpoint('unet_membrane_3class.hdf5', monitor='loss', verbose=1, save_best_only=True)
+# model.fit_generator(myGene, steps_per_epoch=5, epochs=3, callbacks=[model_checkpoint])
+#
+# testGene = testGenerator("data/test_class3", num_image=test_num)
 # results = model.predict_generator(testGene, test_num, verbose=1)
-# saveResult("data/test_class2", results)
+# saveResult("data/test_class3", results)
 
 # -------------------------------------------------------------------------------------------------
-mix_num = 8
+
+mix_num = 14
 
 data = []
 for i in range(0, mix_num):
